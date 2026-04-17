@@ -122,6 +122,7 @@ A curated list of awesome software engineering resources.
 1. [:film_strip: \[rus\] Who is who in Software Development: Developer, QA, BA, PM - who are those people? by FoxMinded](https://www.youtube.com/watch?v=OHPPpRkryfU)
 2. [:film_strip: \[rus\] Phases](https://www.youtube.com/watch?v=ktBw6RZhji0)
 3. [:film_strip: \[rus\] Methodologies](https://www.youtube.com/watch?v=xmJINdHGucw)
+4. [:scroll: \[eng\] 33 principles that separate work that ships from work that drifts](https://varstatt.com/principles)
 
 ## Debugging
 1. [:film_strip: \[rus\] Debugging, lecture from FPMI, part1](https://www.youtube.com/watch?v=BnTUDLRdjmM&list=PL4_hYwCyhAvaTVSzXsvFQlb-FmNqUNkPT)
